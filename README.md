@@ -5,7 +5,7 @@ An execution-ready Machine Learning pipeline that uses a Random Forest Regressor
 ##  How to Run the Project
 1. Open Google Colab or a local Jupyter environment.
 2. Upload the Quant_Task_3.ipynb file.
-3. Run the cells to pull live data via `yfinance` and execute the pipeline.
+3. Run the cells to pull live data via yfinance and execute the pipeline.
 
 ##  Features Engineered (No Raw Prices Used)
 - **Trend Momentum**: 10/50 SMA Trend Ratio
